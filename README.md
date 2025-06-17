@@ -1,0 +1,91 @@
+# 📊 Olas Ventures Sales Dashboard – Q1 2025
+
+![Olas Ventures Dashboard](./Olas%20Ventures%20Sales%20dashboard.jpg)
+
+## 🚀 Project Objective
+This project aims to analyze and visualize the **sales performance of Olas Ventures** for the **first quarter of 2025**. The dashboard is designed to provide insights into revenue generation, product performance, customer trends, and payment behaviors across multiple store locations.
+
+---
+
+## 📁 Dataset Details
+The dataset covers sales transactions from **January to April 2025**, featuring:
+- 🛍️ Store Locations (Surulere, Oshodi, Ikeja)  
+- 🗓️ Invoice Dates  
+- 📦 Products, Brands & Categories  
+- 🔢 Quantity, Cost, Selling Price  
+- 💳 Payment Modes (Cash, POS, Transfer)  
+- 👥 Customer Count  
+
+---
+
+## 🛠️ Tools Used
+- **Microsoft Excel**: for data cleaning, analysis, and visualization  
+- **Pivot Tables**: for data aggregation and calculations  
+- **Slicers**: for dynamic filtering by category, store, brand, etc.  
+- **Charts**: bar, pie, and line visuals for performance analysis  
+
+---
+
+## 🔄 Analysis Workflow
+1. **Data Preparation** – Cleaned and validated the dataset  
+2. **Metric Calculation** – Added columns for profit, revenue, and totals  
+3. **Pivot Analysis** – Built pivot tables to track sales and profit by product, month, brand, and store  
+4. **Dashboard Design** – Developed an interactive dashboard using slicers and visuals for deep insights  
+
+---
+
+## 📌 Key Insights
+- 💰 **Total Revenue**: ₦9,184,961  
+- 📉 **Total Cost**: ₦7,653,706  
+- 📈 **Total Profit**: ₦1,531,255  
+- 👥 **Customer Count**: 434  
+- 🛒 **Top Selling Product (Quantity)**: Instant Noodles  
+- 🏆 **Most Profitable Products**: Instant Noodles & Semovita (₦183K each)  
+- ❌ **Lowest Profitable Product**: Brown Sugar  
+- 🏬 **Top Store Location**: Surulere  
+- 💳 **Most Used Payment Mode**: POS  
+- 📆 **Best Sales Month**: April (₦2.58M Revenue)
+
+---
+
+## 📊 Visualizations
+- 📊 Top & Bottom 7 Products by Quantity and Profit  
+- 📈 Monthly Sales and Profit Trend  
+- 🧾 Average Selling Price per Category  
+- 🛍️ Store Performance by Profit  
+- 🧠 Slicers for Store, Product, Brand, Month, and Payment Filter  
+- 🥧 Payment Mode Distribution (Pie Chart)
+
+---
+
+## ✅ Recommendations
+- Boost inventory of top-performing products (Instant Noodles, Semovita).
+- Review or promote bottom-performing items (e.g., Brown Sugar).
+- Continue investing in POS systems, as it's the most used payment channel.
+- Analyze customer feedback for insights into low-performing products.
+
+---
+
+## ⚠️ Limitations & Next Steps
+### Limitations:
+- Data is limited to Q1 2025 – seasonal sales variation not captured.
+- No customer demographic or segmentation info available.
+
+### Next Steps:
+- Extend analysis to cover the full year.
+- Integrate data with customer feedback or CRM tools.
+- Develop a Power BI version of the dashboard for advanced interactivity.
+
+---
+
+## 👤 Author
+**Dare Kayode Immanuel**
+
+- 🌍 [LinkedIn Profile](https://www.linkedin.com/in/kayodeimmanuel)  
+- 📸 [TikTok – @immanuelthedataanalyst](https://www.tiktok.com/@immanuelthedataanalyst)  
+- 🌐 [TalentDigit Portfolio](https://talentdigit.com/userprofile/kayode-6751)  
+- 💻 [GitHub](https://github.com/Immanuel300)
+
+---
+
+> _"Turning data into decisions through storytelling and visualization."_  
