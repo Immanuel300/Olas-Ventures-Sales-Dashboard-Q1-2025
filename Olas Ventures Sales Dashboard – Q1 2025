@@ -25,7 +25,6 @@ The dataset covers sales transactions from **January to April 2025**, featuring:
 - **Charts**: bar, pie, and line visuals for performance analysis  
 
 ---
-
 ## 🔄 Analysis Workflow
 1. **Data Preparation** – Cleaned and validated the dataset  
 2. **Metric Calculation** – Added columns for profit, revenue, and totals  
